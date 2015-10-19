@@ -1,0 +1,69 @@
+{
+    "CONFIG_URL" : "http://10.193.66.132:9090/tavantAds/api/getAdResponse",
+    "userID" : [{
+    "m1" : {"responseId":0,"adId":5,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/5_728x90.gif","imageSrc":"5_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=5"},
+    
+    "m2":{"responseId":0,"adId":18,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/18_728x90.gif","imageSrc":"18_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=18"},
+    "m3" : {"responseId":0,"adId":17,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/17_728x90.gif","imageSrc":"17_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=17"},
+    "f1" : {"responseId":0,"adId":1,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/1_728x90.gif","imageSrc":"1_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=1"},
+    "f2" : {"responseId":0,"adId":23,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/23_728x90.gif","imageSrc":"23_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=23"},
+    "f3" : {"responseId":0,"adId":4,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/4_728x90.gif","imageSrc":"4_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=4"},
+    },
+                {
+                "m1" : {"responseId":0,"adId":5,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/5_728x90.gif","imageSrc":"40_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=5"},
+                
+                "m2":{"responseId":0,"adId":18,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/18_728x90.gif","imageSrc":"1_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=18"},
+                "m3" : {"responseId":0,"adId":17,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/17_728x90.gif","imageSrc":"16_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=17"},
+                "f1" : {"responseId":0,"adId":1,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/1_728x90.gif","imageSrc":"28_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=1"},
+                "f2" : {"responseId":0,"adId":23,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/23_728x90.gif","imageSrc":"41_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=23"},
+                "f3" : {"responseId":0,"adId":4,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/4_728x90.gif","imageSrc":"35_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=4"},
+                },
+                {
+                "m1" : {"responseId":0,"adId":5,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/5_728x90.gif","imageSrc":"6_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=5"},
+                
+                "m2":{"responseId":0,"adId":18,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/18_728x90.gif","imageSrc":"14_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=18"},
+                "m3" : {"responseId":0,"adId":17,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/17_728x90.gif","imageSrc":"26_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=17"},
+                "f1" : {"responseId":0,"adId":1,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/1_728x90.gif","imageSrc":"25_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=1"},
+                "f2" : {"responseId":0,"adId":23,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/23_728x90.gif","imageSrc":"39_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=23"},
+                "f3" : {"responseId":0,"adId":4,"adType":"banner","htmlContent":"","imageSrcWeb":"http://10.193.66.132:9090/static/4_728x90.gif","imageSrc":"14_728x90.gif","clickThroughUrl":"http://10.193.66.132:9090/event?adId=4"},
+                }],
+    
+    "TextAds" : {
+        "responseId":0,
+        "adId":9,
+        "adType":"html",
+        "htmlContent":"SBI Magnum Equity Fund seeks capital appreciation through investment in diversified portfolio of equities of high growth companies, along with liquidity of an open ended scheme.",
+         "clickThroughUrl":"https://www.google.co.in"
+    },
+  "BannerAds" : [ {"responseId":0,
+        "adId":3,
+        "adType":"banner",
+        "htmlContent":"",
+        "textContent":null,
+        "imageSrcWeb":"http://10.193.66.132:9090/static/12_728x90.gif",
+        "imageSrc":"AdImage.jpg",
+        "clickThroughUrl":"https://www.sbimf.com/"
+    },
+                 {"responseId":0,
+                 "adId":5,
+                 "adType":"banner",
+                 "htmlContent":"",
+                 "imageSrcWeb":"http://10.193.66.132:9090/static/5_728x90.gif",
+                 "imageSrc":"5_728x90.jpg",
+                 "clickThroughUrl":"http://10.193.66.132:9090/event?adId=5"
+    }],
+    "m1":{"responseId":0,
+        "adId":3,
+        "adType":"banner",
+        "htmlContent":"",
+        "textContent":null,
+        "imageSrcWeb":"http://10.193.66.132:9090/static/12_728x90.gif",
+        "imageSrc":"AdImage.jpg",
+        "clickThroughUrl":"https://www.sbimf.com/"
+    },
+
+
+}
+
+
+
