@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "SomeController.h"
 
-@interface ViewController ()<UIAccelerometerDelegate,UICollectionViewDataSource>
+@interface ViewController ()<UICollectionViewDataSource>
 @property (strong, nonatomic) IBOutlet UICollectionView *collectionView;
 
 @end
@@ -20,20 +20,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
     itemWidth = self.view.bounds.size.width;
     self.automaticallyAdjustsScrollViewInsets = NO;
     
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-//-(void)viewWillLayoutSubviews{
-//    itemWidth = self.view.bounds.size.width;
-//   
-//}
 
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout referenceSizeForHeaderInSection:(NSInteger)section
 {
